@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "68a204b1204d8fd7a87b9bc7"
+  },
+  "Cedula": 1203467948,
+  "Nombre": "Fidel",
+  "Apellido": "Giron"
+},
+{
+  "_id": {
+    "$oid": "68a20504204d8fd7a87b9bc9"
+  },
+  "Cedula": 1789456123,
+  "Nombre": "Andrea",
+  "Apellido": "Morales"
+},
+{
+  "_id": {
+    "$oid": "68a20639204d8fd7a87b9bd1"
+  },
+  "Cedula": {
+    "$numberLong": "11256389574"
+  },
+  "Nombre": "Roberto",
+  "Apellido": "Días",
+  "Materia impartida": "Producción audiovisual",
+  "Tutor asignado a": "Clase A1"
+}]
