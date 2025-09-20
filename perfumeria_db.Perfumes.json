@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "68a90b30a856be044d836bd4"
+  },
+  "nombre": "Eternelle",
+  "marca": "Lumina",
+  "precio": 79.9,
+  "stock": 25,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68a90b30a856be044d836bd5"
+  },
+  "nombre": "Noir Intense",
+  "marca": "Aurum",
+  "precio": 92.5,
+  "stock": 15,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68a90b30a856be044d836bd6"
+  },
+  "nombre": "Brisa Marina",
+  "marca": "Maré",
+  "precio": 65,
+  "stock": 40,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68a90b30a856be044d836bd7"
+  },
+  "nombre": "Dulce Vainilla",
+  "marca": "Lumina",
+  "precio": 74,
+  "stock": 10,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68a90b30a856be044d836bd8"
+  },
+  "nombre": "Cítrico Vivo",
+  "marca": "Aurum",
+  "precio": 58.5,
+  "stock": 30,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68a90b30a856be044d836bd9"
+  },
+  "nombre": "Frescor Verde",
+  "marca": "Herbal Essence",
+  "precio": 49.9,
+  "stock": 50,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68a90b30a856be044d836bda"
+  },
+  "nombre": "Noche Estelar",
+  "marca": "Galaxy",
+  "precio": 110,
+  "stock": 5,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68a90b30a856be044d836bdb"
+  },
+  "nombre": "Rosa Encantada",
+  "marca": "Floralis",
+  "precio": 82,
+  "stock": 20,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68a90b30a856be044d836bdc"
+  },
+  "nombre": "Aroma Café",
+  "marca": "Gourmet",
+  "precio": 70,
+  "stock": 12,
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68a90b30a856be044d836bdd"
+  },
+  "nombre": "Océano Azul",
+  "marca": "Maré",
+  "precio": 68,
+  "stock": 18,
+  "activo": true
+}]
